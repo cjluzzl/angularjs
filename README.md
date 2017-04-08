@@ -28,7 +28,7 @@ It is an MVC (Model-View-Controller) framework so a brief understanding of MVC i
 16. [Transclude](https://www.youtube.com/watch?v=A0mdSbdE7-E "Transclude")
 17. [Config, NgView and NgRoute](https://www.youtube.com/watch?v=ZtqzeYooMw4 "Config, NgView and NgRoute")
 18. [Route Params](https://www.youtube.com/watch?v=BmYVs4LY3OM "Route Params")
-19. [Custom Provider](https://www.youtube.com/watch?v=FemQfKf03gY "Custom Provider")
+19. [Custom Provider](https://www.youtube.com/watch?v=xm9V1VLxCAs"Custom Provider")
 20. [Injectors and Invoke](https://www.youtube.com/watch?v=Z8mE2-TWoQ8 "Injectors and Invoke")
 21. [NgAnnotate and Minification](http://youtu.be/4waCqOuw3Tc "NgAnnotate and Minification")
 22. [NgDocs](http://youtu.be/e31elKr5hD0 "NgDocs")
